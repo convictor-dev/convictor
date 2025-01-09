@@ -123,7 +123,7 @@ Chamo-me Victor Eduardo Rosa, tenho 41 anos e sou natural de Santa Catarina, mas
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=connvictor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -131,7 +131,7 @@ Chamo-me Victor Eduardo Rosa, tenho 41 anos e sou natural de Santa Catarina, mas
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=connvictor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
