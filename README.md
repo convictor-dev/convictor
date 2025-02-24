@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-<p>Chamo-me Victor Eduardo Rosa, tenho 41 anos e sou natural de Santa Catarina, mas vivo no Paraná há 32 anos. Concluí o ensino médio no Colégio Estadual Júlio Szymanski em Araucária-PR. Atualmente, estou cursando Engenharia de Software na Universidade Positivo.</p> 
-<p>Desde minha adolescência sou fascinado por computadores e tecnologias, no final dos anos 1990 comecei a buscar conhecimento da area de web design, mas ainda de forma autodidata. Acabei cedendo a outra paixão e me formei em Educação Física em 2011. Em 2023 concluí minha licenciatura em História e agora em 2025 estou inciando minha mais nova aventura em Engenharia de Software. Estudo HTML5, CSS3, JavaScript, Golang e Python já algum tempo, Python a bem menos tempo!</p>
+<p>Chamo-me Victor Eduardo Rosa, tenho 41 anos e sou natural de Santa Catarina, mas vivo no Paraná há 33 anos. Concluí o ensino médio no Colégio Estadual Júlio Szymanski em Araucária-PR. Atualmente, estou cursando Engenharia de Software na Universidade Positivo.</p> 
+<p>Desde minha adolescência sou fascinado por computadores e tecnologias, no final dos anos 1990 comecei a buscar conhecimento da area de web design, contudo de forma não acadêmica. Acabei cedendo a outra paixão e me formei em Educação Física em 2011. Em 2023 concluí minha graduação em História e em 2025 estou inciei minha mais nova aventura em Engenharia de Software. Estudo no momento HTML5, CSS3, JavaScript há algum tempo, Python e Golang a bem menos tempo!</p>
 
 <br>
 <p align="left">
